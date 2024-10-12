@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-date: 2023-12-21
+date: 2024-10-12
 draft: false
 author: "Luisa Orozco"
 ---
@@ -10,7 +10,7 @@ author: "Luisa Orozco"
 **Research Software Engineer (RSE)**, Natural Sciences and Engineering section.
 
 - Lead RSE of projects involving:
-    1. Proposing state-of-the-art machine learning algorithms to geotechnics and chemistry problems.
+    1. Proposing state-of-the-art machine learning algorithms to geotechnics, fluid dynamics and chemistry problems.
     2. Enhancing code quality and sustainability.
 - Engage with research community on different physics and computational sciences events across the Netherlands (NWO Physics, FOSDEM, DUCOMS, ChemAI, OpenScience Festival, JuliaCon).
 - Member and secretary of the Works Council.
@@ -39,13 +39,13 @@ author: "Luisa Orozco"
 
 ## Publications
 
-[open Delft Advanced Research Terra Simulator (open-DARTS)](https://joss.theoj.org/papers/10.21105/joss.06737) D Voskov, I Saifullin, A Novikov, M Wapperom, L Orozco, G Serrão Seabra, Y Chen, M Khait, X Lyu, X Tian, S de Hoop, A Palha - *Journal of Open Source Software, 9(99), 6737*, 2024
+[open Delft Advanced Research Terra Simulator (open-DARTS)](https://joss.theoj.org/papers/10.21105/joss.06737) D Voskov, I Saifullin, A Novikov, M Wapperom, LF Orozco, G Serrão Seabra, Y Chen, M Khait, X Lyu, X Tian, S de Hoop, A Palha - *Journal of Open Source Software, 9(99), 6737*, 2024
 
 [GrainLearning: A Bayesian uncertainty quantification toolbox for discrete and continuum numerical models of granular materials](https://joss.theoj.org/papers/10.21105/joss.06338) H Cheng, L Orozco, R Lubbe, A Jansen,
 P Hartmann, K Thoeni - *Journal of Open Source Software, 9(97), 6338*, 2024
 
 [Inhalation powder development without carrier: How to engineer ultra-flying microparticles?](https://doi.org/10.1016/j.ejpb.2023.08.010)
-A Lechanteur, E Gresse, L Orozco, E Plougonven, G Lumay, N Vandewalle, A Léonard, B Evrard - *European Journal of Pharmaceutics and Biopharmaceutics*, 2023
+A Lechanteur, E Gresse, LF Orozco, E Plougonven, G Lumay, N Vandewalle, A Léonard, B Evrard - *European Journal of Pharmaceutics and Biopharmaceutics*, 2023
 
 [Bespoke particle shapes in granular matter](https://doi.org/10.4279/pip.140007)
 D Cantor, M Cárdenas-Barrantes, LF Orozco *Papers in physics*, 2022
@@ -83,3 +83,7 @@ LF Orozco and B Caicedo
 **Software**: Paraview, AutoCAD, Plaxis, ArcMap, Microsoft office.
 
 **Languages**: Spanish (Native), English (Fluent), French (Fluent), Dutch (Conversational)
+
+## Certifications
+
+- Project & Stakeholder Management - YEARTH Academy
