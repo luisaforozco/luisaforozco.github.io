@@ -12,7 +12,7 @@ author: "Luisa Orozco"
 - Lead RSE of projects involving:
     1. Proposing state-of-the-art machine learning algorithms to geotechnics and chemistry problems.
     2. Enhancing code quality and sustainability.
-- Engage with research community on different physics and computational sciences events across the Netherlands (NWO Physics, FOSDEM, DUCOMS, ChemAI, OpenScience Festival).
+- Engage with research community on different physics and computational sciences events across the Netherlands (NWO Physics, FOSDEM, DUCOMS, ChemAI, OpenScience Festival, JuliaCon).
 - Member and secretary of the Works Council.
 - Mentor of the NLeSc Fellowship program.
 
@@ -38,6 +38,11 @@ author: "Luisa Orozco"
 **Bachelor of Civil Engineering.** *Universidad de los Andes* [2011 - 2014]
 
 ## Publications
+
+[open Delft Advanced Research Terra Simulator (open-DARTS)](https://joss.theoj.org/papers/10.21105/joss.06737) D Voskov, I Saifullin, A Novikov, M Wapperom, L Orozco, G Serrão Seabra, Y Chen, M Khait, X Lyu, X Tian, S de Hoop, A Palha - *Journal of Open Source Software, 9(99), 6737*, 2024
+
+[GrainLearning: A Bayesian uncertainty quantification toolbox for discrete and continuum numerical models of granular materials](https://joss.theoj.org/papers/10.21105/joss.06338) H Cheng, L Orozco, R Lubbe, A Jansen,
+P Hartmann, K Thoeni - *Journal of Open Source Software, 9(97), 6338*, 2024
 
 [Inhalation powder development without carrier: How to engineer ultra-flying microparticles?](https://doi.org/10.1016/j.ejpb.2023.08.010)
 A Lechanteur, E Gresse, L Orozco, E Plougonven, G Lumay, N Vandewalle, A Léonard, B Evrard - *European Journal of Pharmaceutics and Biopharmaceutics*, 2023
@@ -75,6 +80,6 @@ LF Orozco and B Caicedo
 
 **Design**: Blender, LaTex, Markdown, CSS, ffmpeg, imagemagick
 
-**Software**: Paraview, AutoCAD, PLaxis, ArcMap, Microsoft office.
+**Software**: Paraview, AutoCAD, Plaxis, ArcMap, Microsoft office.
 
 **Languages**: Spanish (Native), English (Fluent), French (Fluent), Dutch (Conversational)
