@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-date: 2024-10-12
+date: 2025-04-02
 draft: false
 author: "Luisa Orozco"
 ---
@@ -13,6 +13,7 @@ author: "Luisa Orozco"
     1. Proposing state-of-the-art machine learning algorithms to geotechnics, fluid dynamics and chemistry problems.
     2. Enhancing code quality and sustainability.
 - Engage with research community on different physics and computational sciences events across the Netherlands (NWO Physics, FOSDEM, DUCOMS, ChemAI, OpenScience Festival, JuliaCon).
+- Code review in project teams to enhance software quality and ensure best practices.
 - Member and secretary of the Works Council.
 - Mentor of the NLeSc Fellowship program.
 
@@ -31,9 +32,11 @@ author: "Luisa Orozco"
 
 **PhD** in Mechanics and civil engineering. *CEA, LMGC, Université de Montpellier* [2016 - 2019]  
 *Supervisors:* Farhang Radjaï, Jean-Yves Delenne, Philippe Sornay
+*[PhD Dissertation: Numerical modeling and rheology of crushable granular flows: application to ball mills.](https://tel.archives-ouvertes.fr/tel-02928932/document)*
 
 **MSc** Master in Civil Engineering, specialty: Geotechnics. *Universidad de los Andes* [2014 - 2016]  
 *Supervisor:* Bernardo Caicedo
+*[Thesis: Water migration in partially hydrophobic soils.](https://repositorio.uniandes.edu.co/bitstream/handle/1992/13737/u729181.pdf)*
 
 **Bachelor of Civil Engineering.** *Universidad de los Andes* [2011 - 2014]
 
@@ -80,10 +83,13 @@ LF Orozco and B Caicedo
 
 **Design**: Blender, LaTex, Markdown, CSS, ffmpeg, imagemagick
 
-**Software**: Paraview, AutoCAD, Plaxis, ArcMap, Microsoft office.
+**Software**: Paraview, AutoCAD, Plaxis, ArcMap, Microsoft office, Docker.
+
+**Software Tools**: Automated testing, CI/CD (GitHub and GitLab), containerization, documentation, Linux system.
 
 **Languages**: Spanish (Native), English (Fluent), French (Fluent), Dutch (Conversational)
 
 ## Certifications
 
 - Project & Stakeholder Management - YEARTH Academy
+- PRINCE2 7 Foundation

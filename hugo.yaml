@@ -210,6 +210,13 @@ params:
           - Research on effects of particle shape on the flow and breakage of granular materials.
           - Teaching tasks included laboratory of materials and civil engineering.
 
+      - job: "Doctoral Researcher"
+        company: "CEA"
+        companyURL: "https://www.cea.fr/english/Pages/Welcome.aspx"
+        date: "September 2016 - October 2019"
+        content: |
+          Modelling and characterizing granular flows in rotating drums and to elucidate the mechanisms of particle grinding across scales. By means of particle dynamics simulations and a breakage model involving the tessellation of particles and a dynamic debonding criterion based on fracture mechanics, I investigated single-particle impacts, the properties of granular flows in the cascading regime in a rotating drum as a function of system parameters, the effect of the size and amount of grinding media on the grinding process, and the evolution of particle breakage in flows of breakable particles. 
+
   # Education
   education:
     enable: true
@@ -238,7 +245,7 @@ params:
         featuredLink:
           enable: true
           name: "Master thesis"
-          url: "https://repositorio.uniandes.edu.co/bitstream/handle/1992/13737/u729181.pdf?sequence=1&isAllowed=y"
+          url: "https://repositorio.uniandes.edu.co/bitstream/handle/1992/13737/u729181.pdf"
 
       - title: "Bachelor of Civil Engineering"
         school:
