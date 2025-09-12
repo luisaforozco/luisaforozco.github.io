@@ -1,12 +1,15 @@
 ---
 title: Curriculum Vitae
-date: 2025-04-02
+date: 2025-09-12
 draft: false
 author: "Luisa Orozco"
 ---
 
 ## Work Experience
-#### Netherlands eScience center [Mar 2022 - now]
+#### TNO - GDN Geological Survery of the Netherlands [Sep 2025 - now]
+**Data Scientist**, GeoData & Information Management.
+
+#### Netherlands eScience center [Mar 2022 - Sep 2025]
 **Research Software Engineer (RSE)**, Natural Sciences and Engineering section.
 
 - Lead RSE of projects involving:

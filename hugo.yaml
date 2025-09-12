@@ -55,7 +55,7 @@ Menus:
 
 params:
   title: "Luisa Orozco"
-  description: "RSE"
+  description: "Data Scientist"
   # staticPath: ""  # The path to serve the static files from
   favicon: "/images/thumbnail.png"
 
@@ -122,7 +122,7 @@ params:
     intro: "Hola! I am"
     title: "Luisa Orozco"
     subtitle: "PhD"
-    content: "Research Software Engineer and researcher on granular materials"
+    content: "Data Scientist and Software Engineer"
     image: /images/me_green.jpeg
     bottomImage:
       enable: true
@@ -159,7 +159,7 @@ params:
     title: "About Me"
     image: "/images/me_bn.jpeg"
     content: |
-     I am a Researcher, Scientist and Research Software Engineer (RSE) specialized in applying machine learning to material science. My background is in mechanics of granular matter complemented by experience on improving software practices in research. At the Netherlands eScience center in Amsterdam I currently collaborate with researchers across various domains to enhance the scientific landscape by means of better software.
+     I am a data scientist and software engineer specialized in applying machine learning to material science. My background is in mechanics of granular matter complemented by experience on improving software practices in research. At TNO - GDN in Utrecht I currently apply many data science, AI and machine learning tools to problems around geo data management of the underground of the Netherlands.
 
      I believe in Open Science and try to advocate for it by sharing the source code of my projects and contributing to open-source libraries and projects.
 
@@ -169,7 +169,7 @@ params:
       items:
         - "ML for material science"
         - "Granular matter"
-        - "AI for Natural Sciences"
+        - "AI for Geoscience"
         - "MLOps"
         - "Geotechnics"
         - "FOSS"
@@ -179,12 +179,18 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Data Scientist"
+        company: "TNO - GDN Geological Survey of the Netherlands"
+        companyUrl: "https://www.geologischedienst.nl/en/"
+        date: "September 2025 - present"
+        content: |
+          I am part of the GeoData & Information Management (GDIM) department and as a member of the Science team, I contribute on projects necessitating Machine learning, AI, or big data processing tools crafted to challenging problems.
       - job: "Research Software Engineer"
         company: "Netherlands eScience Center"
         companyUrl: "https://esciencecenter.nl"
-        date: "March 2022 - present"
+        date: "March 2022 - September 2025"
         content: |
-          As an RSE at NLeSC I collaborate with researchers to develop eScience tools that enhance their research.
+          As an RSE at NLeSC I collaborated with researchers to develop software tools that enhance their research.
           I am part of the Natural Sciences section and  [team Nabla \\( \\nabla \\)](https://github.com/Team-Nabla) working on projects involving Machine Learning and materials science.
 
           Projects I have contributed to:
@@ -280,7 +286,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: DEEPDIP [ongoing]
+      - title: DEEPDIP
         content: |-
           In collaboration with the Scientific Computing group at CWI, we investigate the use of neural closure models for Navier-Stokes equations.
         image: /images/DEEPDIP.gif
