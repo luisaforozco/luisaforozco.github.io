@@ -45,6 +45,8 @@ author: "Luisa Orozco"
 
 ## Publications
 
+[Towards Scientific Machine Learning for Granular Material Simulations: Challenges and Opportunities](https://link.springer.com/article/10.1007/s11831-025-10322-8) M Fransen, A Fürst, D Tunuguntla, DN Wilke, B Alkin, D Barreto, J Brandstetter, MA Cabrera, X Fan, M Guo, B Kieskamp, K Kumar, J Morrissey, J Nuttall, J Ooi, LF Orozco, S Papanicolopulos, T Qu, D Schott, T Shuku, W Sun, T Weinhart, D Ye & H Cheng - *Archives of Computational Methods in Engineering*, 2025
+
 [open Delft Advanced Research Terra Simulator (open-DARTS)](https://joss.theoj.org/papers/10.21105/joss.06737) D Voskov, I Saifullin, A Novikov, M Wapperom, LF Orozco, G Serrão Seabra, Y Chen, M Khait, X Lyu, X Tian, S de Hoop, A Palha - *Journal of Open Source Software, 9(99), 6737*, 2024
 
 [GrainLearning: A Bayesian uncertainty quantification toolbox for discrete and continuum numerical models of granular materials](https://joss.theoj.org/papers/10.21105/joss.06338) H Cheng, L Orozco, R Lubbe, A Jansen,
