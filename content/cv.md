@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-date: 2025-09-12
+date: 2025-12-19
 draft: false
 author: "Luisa Orozco"
 ---
@@ -8,6 +8,8 @@ author: "Luisa Orozco"
 ## Work Experience
 #### TNO - GDN Geological Survery of the Netherlands [Sep 2025 - now]
 **Data Scientist**, GeoData & Information Management.
+
+- Develop and test prototypes fro offering solutions towards the assessment of data harmonization in multiple databases.
 
 #### Netherlands eScience center [Mar 2022 - Sep 2025]
 **Research Software Engineer (RSE)**, Natural Sciences and Engineering section.
@@ -84,7 +86,7 @@ LF Orozco and B Caicedo
 
 ## Skills
 
-**Programming languages**: `python, Julia, C++, CMake, Bash, Matlab, Git`
+**Programming languages**: `python, Julia, C++, CMake, Bash, Matlab, Git, SQL`
 
 **Design**: Blender, LaTex, Markdown, CSS, ffmpeg, imagemagick
 
