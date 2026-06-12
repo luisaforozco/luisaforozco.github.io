@@ -1,22 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luisa Orozco</title><link>https://luisaforozco.com/</link><description>Recent content on Luisa Orozco</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://luisaforozco.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Curriculum Vitae</title><link>https://luisaforozco.com/cv/</link><pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate><guid>https://luisaforozco.com/cv/</guid><description>&lt;h2 id="work-experience"&gt;Work Experience&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luisa Orozco</title><link>https://luisaforozco.com/</link><description>Recent content on Luisa Orozco</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://luisaforozco.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Curriculum Vitae</title><link>https://luisaforozco.com/cv/</link><pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate><guid>https://luisaforozco.com/cv/</guid><description>&lt;h2 id="work-experience"&gt;Work Experience&lt;/h2&gt;
 &lt;h4 id="tno---gdn-geological-survery-of-the-netherlands-sep-2025---now"&gt;TNO - GDN Geological Survery of the Netherlands [Sep 2025 - now]&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Data Scientist&lt;/strong&gt;, GeoData &amp;amp; Information Management.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Data Scientist &amp;amp; AI Engineer&lt;/strong&gt;, GeoData &amp;amp; Information Management.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Develop and test prototypes fro offering solutions towards the assessment of data harmonization in multiple databases.&lt;/li&gt;
+&lt;li&gt;Develop scalable methodologies for harmonizing and validating national groundwater time-series datasets, using failure-mode analysis, provenance tracking, and interpretable similarity frameworks to address record linkage and data quality challenges in heterogeneous observational data.
+&lt;ul&gt;
+&lt;li&gt;Reframed large-scale groundwater time-series harmonization as a certainty-first matching problem, recognizing that false positives carried substantially higher downstream costs than unresolved cases.&lt;/li&gt;
+&lt;li&gt;Led an investigation into the behavior of multiple time-series matching approaches under real-world observational artifacts, demonstrating that the search for a universally best method was fundamentally misguided because performance depended on pathology-specific failure modes.&lt;/li&gt;
+&lt;li&gt;Developed a principled matching framework based on understanding when and why different methods fail, using complementary signals to support high-confidence decisions while explicitly allowing uncertainty and abstention.&lt;/li&gt;
+&lt;li&gt;Translated these findings into an interpretable and scalable harmonization workflow for national groundwater datasets, prioritizing reliability over forced matching decisions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Investigate GraphRAG architectures for domain-specific information retrieval from geological reports and internal documentation, building Neo4j-backed knowledge graphs and applying DeepEval to evaluate retrieval quality and generated responses.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id="netherlands-escience-center-mar-2022---sep-2025"&gt;Netherlands eScience center [Mar 2022 - Sep 2025]&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Research Software Engineer (RSE)&lt;/strong&gt;, Natural Sciences and Engineering section.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lead RSE of projects involving:
-&lt;ol&gt;
-&lt;li&gt;Proposing state-of-the-art machine learning algorithms to geotechnics, fluid dynamics and chemistry problems.&lt;/li&gt;
-&lt;li&gt;Enhancing code quality and sustainability.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Engage with research community on different physics and computational sciences events across the Netherlands (NWO Physics, FOSDEM, DUCOMS, ChemAI, OpenScience Festival, JuliaCon).&lt;/li&gt;
-&lt;li&gt;Code review in project teams to enhance software quality and ensure best practices.&lt;/li&gt;
-&lt;li&gt;Member and secretary of the Works Council.&lt;/li&gt;
-&lt;li&gt;Mentor of the NLeSc Fellowship program.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id="université-de-liège-grasp-sep-2020---mar-2022"&gt;Université de Liège, GRASP [Sep 2020 - Mar 2022]&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Postdoctoral researcher&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Gallery</title><link>https://luisaforozco.com/gallery/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate><guid>https://luisaforozco.com/gallery/</guid><description/></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;Research Software Engineer (RSE)&lt;/strong&gt;, Natural Sciences and Engineering section.&lt;/p&gt;</description></item><item><title>Gallery</title><link>https://luisaforozco.com/gallery/</link><pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate><guid>https://luisaforozco.com/gallery/</guid><description/></item></channel></rss>
