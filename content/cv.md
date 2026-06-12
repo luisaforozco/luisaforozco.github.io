@@ -1,15 +1,20 @@
 ---
 title: Curriculum Vitae
-date: 2025-12-19
+date: 2026-06-12
 draft: false
 author: "Luisa Orozco"
 ---
 
 ## Work Experience
 #### TNO - GDN Geological Survery of the Netherlands [Sep 2025 - now]
-**Data Scientist**, GeoData & Information Management.
+**Data Scientist & AI Engineer**, GeoData & Information Management.
 
-- Develop and test prototypes fro offering solutions towards the assessment of data harmonization in multiple databases.
+- Develop scalable methodologies for harmonizing and validating national groundwater time-series datasets, using failure-mode analysis, provenance tracking, and interpretable similarity frameworks to address record linkage and data quality challenges in heterogeneous observational data.
+    - Reframed large-scale groundwater time-series harmonization as a certainty-first matching problem, recognizing that false positives carried substantially higher downstream costs than unresolved cases.
+    - Led an investigation into the behavior of multiple time-series matching approaches under real-world observational artifacts, demonstrating that the search for a universally best method was fundamentally misguided because performance depended on pathology-specific failure modes.
+    - Developed a principled matching framework based on understanding when and why different methods fail, using complementary signals to support high-confidence decisions while explicitly allowing uncertainty and abstention.
+    - Translated these findings into an interpretable and scalable harmonization workflow for national groundwater datasets, prioritizing reliability over forced matching decisions.
+- Investigate GraphRAG architectures for domain-specific information retrieval from geological reports and internal documentation, building Neo4j-backed knowledge graphs and applying DeepEval to evaluate retrieval quality and generated responses.
 
 #### Netherlands eScience center [Mar 2022 - Sep 2025]
 **Research Software Engineer (RSE)**, Natural Sciences and Engineering section.
@@ -94,7 +99,7 @@ LF Orozco and B Caicedo
 
 **Software Tools**: Automated testing, CI/CD (GitHub and GitLab), containerization, documentation, Linux system.
 
-**Languages**: Spanish (Native), English (Fluent), French (Fluent), Dutch (Conversational)
+**Languages**: Spanish (Native), English (Fluent), French (Fluent), Dutch (Proficient)
 
 ## Certifications
 

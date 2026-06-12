@@ -286,6 +286,21 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - title: Groundwater levels data harmonization
+        content: |-
+          Investigated multiple similarity methods (e.g. DTW and metadata-based matching) and showed that no single approach generalizes across real-world data. 
+          Developed an interpretable, failure-mode-driven workflow that combines complementary signals to enable high-confidence record linkage under uncertainty.
+        image: /images/GLD.jpeg
+        badges:
+          - time-series matching
+          - record linkage
+          - Dynamic Time Warping (DTW)
+        links:
+          - icon: fa fa-map
+            url: https://www.dinoloket.nl/en/subsurface-data
+          - icon: fa fa-map
+            url: https://www.broloket.nl/ondergrondgegevens
+
       - title: DEEPDIP
         content: |-
           In collaboration with the Scientific Computing group at CWI, we investigate the use of neural closure models for Navier-Stokes equations.
