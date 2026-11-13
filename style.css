@@ -1,0 +1,52 @@
+#company h3 {
+    color: var(--text-secondary-color) !important;
+}
+
+#company .image img {
+    width: 100%;
+    max-width: 560px;
+    height: auto;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 0.75rem;
+}
+
+#company .content {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-weight: 500;
+    line-height: 1.7rem;
+}
+
+#company .content > p {
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#company ul {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    margin: 2rem 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+#company li {
+    padding: 1.5rem;
+    background: var(--secondary-color);
+    border-radius: 0.75rem;
+}
+
+#company li strong {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+}
+
+@media (max-width: 767.98px) {
+    #company ul {
+        grid-template-columns: 1fr;
+    }
+}
