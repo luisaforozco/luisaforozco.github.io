@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-date: 2026-06-12
+date: 2026-11-13
 draft: false
 author: "Luisa Orozco"
 ---
@@ -15,6 +15,7 @@ author: "Luisa Orozco"
     - Developed a principled matching framework based on understanding when and why different methods fail, using complementary signals to support high-confidence decisions while explicitly allowing uncertainty and abstention.
     - Translated these findings into an interpretable and scalable harmonization workflow for national groundwater datasets, prioritizing reliability over forced matching decisions.
 - Investigate GraphRAG architectures for domain-specific information retrieval from geological reports and internal documentation, building Neo4j-backed knowledge graphs and applying DeepEval to evaluate retrieval quality and generated responses.
+- Advised and contribute to the development of the TNO Software Excellence program seeking to improve the software quality by providing trainings and guidelines to employees developing software.
 
 #### Netherlands eScience center [Mar 2022 - Sep 2025]
 **Research Software Engineer (RSE)**, Natural Sciences and Engineering section.
@@ -92,8 +93,6 @@ LF Orozco and B Caicedo
 ## Skills
 
 **Programming languages**: `python, Julia, C++, CMake, Bash, Matlab, Git, SQL`
-
-**Design**: Blender, LaTex, Markdown, CSS, ffmpeg, imagemagick
 
 **Software**: Paraview, AutoCAD, Plaxis, ArcMap, Microsoft office, Docker.
 

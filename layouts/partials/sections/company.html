@@ -1,0 +1,17 @@
+{{ with .Site.Params.about_lor }}
+{{ if .enable }}
+<section id="company" class="py-0 py-sm-5">
+    <div class="container bg-transparent">
+        <h3 class="text-center bg-transparent primary-font">{{ .title }}</h3>
+        {{ with .image }}
+        <div class="image text-center my-4">
+            <img src="{{ . | relURL }}" alt="Luisa Orozco Research logo">
+        </div>
+        {{ end }}
+        <div class="content">
+            {{ .content | markdownify }}
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}

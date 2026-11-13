@@ -30,6 +30,11 @@ Menus:
       title: Curriculum
       url: /cv
       weight: 1
+    - identifier: company
+      name: Consultancy
+      title: Consultancy services
+      url: /#company
+      weight: 2
     #- identifier: gallery
     #  name: Gallery
     #  title: Gallery
@@ -153,13 +158,26 @@ params:
       #   - icon: /fav.png
       #     url: "https://example.com"
 
+  # About my company
+  about_lor:
+    enable: true
+    title: "Consultancy services"
+    image: "/images/LOR_logo.jpg"
+    content: |
+      I help organisations and researchers turn ideas and research questions into practical, data-driven solutions in four areas:
+
+      - **Research and experimentation** Experimental design, implementation and analysis, from initial setup to interpretation of results.
+      - **Data engineering and development** Building the data infrastructure, tools and software needed to bring data-driven projects to life and scale them up.
+      - **Research software and knowledge sharing** Developing tailored research software and training teams in collaborative software development.
+      - **Applied research and innovation** Exploring scientific machine learning, material simulation and digital twins, both independently and through collaborations with research institutes, universities and industry partners in research consortia.
+
   # About
   about:
     enable: true
     title: "About Me"
     image: "/images/me_bn.jpeg"
     content: |
-     I am a data scientist and software engineer specialized in applying machine learning to material science. My background is in mechanics of granular matter complemented by experience on improving software practices in research. At TNO - GDN in Utrecht I currently apply many data science, AI and machine learning tools to problems around geo data management of the underground of the Netherlands.
+     I am a data scientist and software engineer specialized in applying machine learning to material science. My background is in mechanics of granular matter complemented by experience on improving software practices in research. At TNO - GDN in Utrecht I apply data science, AI and machine learning tools to challenges around geo data management of the underground of the Netherlands.
 
      I believe in Open Science and try to advocate for it by sharing the source code of my projects and contributing to open-source libraries and projects.
 
@@ -184,7 +202,9 @@ params:
         companyUrl: "https://www.geologischedienst.nl/en/"
         date: "September 2025 - present"
         content: |
-          I am part of the GeoData & Information Management (GDIM) department and as a member of the Science team, I contribute on projects necessitating Machine learning, AI, or big data processing tools crafted to challenging problems.
+          In the GeoData & Information Management (GDIM) department and in the Data Innovation team, 
+          I contribute on projects using Machine learning, AI, or big data processing tools to help automate internal processes, 
+          including: data harmonization, document processing, information retrieval.
       - job: "Research Software Engineer"
         company: "Netherlands eScience Center"
         companyUrl: "https://esciencecenter.nl"
